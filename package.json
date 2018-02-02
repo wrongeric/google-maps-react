@@ -1,5 +1,5 @@
 {
-  "name": "google-maps-react",
+  "name": "Maps created in react",
   "version": "1.1.0",
   "description": "Google maps container",
   "author": "Fullstack.io <us@fullstack.io>",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullstackreact/google-maps-react.git"
+    "url": "https://github.com/wrongeric/google-maps-react.git"
   },
   "main": "dist/index.js",
   "scripts": {
@@ -73,6 +73,7 @@
     "react-dom": "~0.14.8 || ^15.0.0"
   },
   "dependencies": {
+    "google-maps-react": "^1.1.2",
     "history": "^3.0.0",
     "invariant": "^2.2.1"
   }
